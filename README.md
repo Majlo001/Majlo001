@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **QT C++, OpenGL, Unity C#, React.js, Express.js**
 - 🔭 I’m currently working on: **Unity game**
 - 👯 I’m looking to collaborate on **some great projects**
-- ⚡ Future projects: **Audiobook player in Android Studio (Kotlin)**
+- ⚡ Future projects: **Flashcards App (React.js), Audiobook player in Android Studio (Kotlin)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
