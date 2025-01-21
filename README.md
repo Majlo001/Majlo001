@@ -6,10 +6,11 @@
 
 
 # 💫 About Me:
-- 🌱 I’m currently learning **QT C++, C#, Linux C, Java SpringBoot**
-- 🔭 I’m currently working on: **MediaTrainer Application (AI based personal trainer made with PyTorch, Mediapipe, Django, PostreSQL, Socket.io and React.js)**
+- 🌱 I’m currently learning **Java SpringBoot, C/C++**
+- 🔭 I’m currently working on: **Online Ticket Booking System (Java, SpringBoot, PostreSQL, React.js)**
 - 👯 I’m looking to collaborate on **Some great projects**
-- ⚡ Future projects: **Flashcards App (Fast API, MongoDB, React.js), Simple 2D Game Engine (C++, QT, OpenGL), Online Ticket Booking System (Java, SpringBoot, PostreSQL, React.js)**
+- ⚡ Future projects: **Simple 2D Game Engine (C++, QT, OpenGL)**
+- ✍️ Previous projects: **MediaTrainer Application (AI based personal trainer made with PyTorch, Mediapipe, Django, PostreSQL, Socket.io and React.js)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +28,7 @@
 ![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -50,7 +52,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
@@ -78,6 +79,7 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 <br><br>
 
@@ -89,7 +91,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Majlo001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
